@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051221231914",
+    "firebase_url": "https://appweb-3f203.firebaseio.com",
+    "project_id": "appweb-3f203",
+    "storage_bucket": "appweb-3f203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051221231914:android:6b83867135b391673fb653",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051221231914-on1jrsjnoicuhpbuo6s9s693gilvbg5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_Jm4kKgBS_0BrSL5AUKGVQso5vU-LJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051221231914-on1jrsjnoicuhpbuo6s9s693gilvbg5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
